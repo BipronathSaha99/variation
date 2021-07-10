@@ -48,7 +48,7 @@ https://bit.ly/variation_project_w3c-validation-report
 ```
 ## License
 
-[MIT](https://github.com/BipronathSaha99/variant/blob/main/LICENSE)
+[MIT](https://github.com/BipronathSaha99/variation/blob/main/LICENSE)
   
 ## Authors
 
